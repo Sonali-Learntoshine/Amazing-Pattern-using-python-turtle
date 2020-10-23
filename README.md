@@ -12,4 +12,4 @@
 
 --- 
 
-![Screenshot](Turtle_pattern_Output.png)
+![patters](https://user-images.githubusercontent.com/53177368/97046352-e0746680-1594-11eb-9c09-47cd9f9da97a.png)
