@@ -6,4 +6,5 @@
 ### turtle is mainly used to introduce children to the world of computers. It’s a straightforward yet versatile way to understand the concepts of Python. This makes it a great avenue for kids to take their first steps in Python programming. 
 
 
-![Alt Text]("https://github.com/Sonali-Learntoshine/Amazing-Pattern-using-python-turtle/blob/master/Turtle_pattern_Outpt.png")
+![Screenshot](Turtle_pattern_Outpt.png)
+![Screenshot](Turtle_pattern_Outpt.png)
